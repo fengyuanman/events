@@ -29,7 +29,7 @@
   8. 攝影拍攝(拍攝、記錄活動照片、網路直播)<br />
   9. 新聞發佈(與媒體聯繫、發佈訊息至網路)<br />
 * 訊息發佈<br />
-  1. 透過[我是豐原人](http://www.facebook.com/love.fengyuan)、[愛豐原俱樂部](https://www.facebook.com/groups/238865766171889/)、[豐原葫蘆墩柑仔店](https://www.facebook.com/groups/397201197036513/)、[PTT豐原版](telent:ptt.cc)<br />
+  1. 透過[我是豐原人](http://www.facebook.com/love.fengyuan)、[愛豐原俱樂部](https://www.facebook.com/groups/238865766171889/)、[豐原葫蘆墩柑仔店](https://www.facebook.com/groups/397201197036513/)、[PTT豐原版](telent://ptt.cc)<br />
   2. 邀請媒體朋友(自由時報、聯合報、蘋果日報、豐盟有線電視)<br />
 * 會議內容<br />
   - 會前會議-活動前1.5~2個月(決定時間、參與人員、尋找地點)<br />
